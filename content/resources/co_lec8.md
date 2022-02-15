@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Summary of Lecture 8.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-997-topics-in-combinatorial-optimization-spring-2004/06d9723de3290adf809e3e61e4dadc8a_co_lec8.pdf
+file: /media/courses/18-997-topics-in-combinatorial-optimization-spring-2004/06d9723de3290adf809e3e61e4dadc8a_co_lec8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: co_lec8.pdf
 uid: 06d9723d-e329-0adf-809e-3e61e4dadc8a
