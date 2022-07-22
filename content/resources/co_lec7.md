@@ -5,6 +5,7 @@ file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/b8525ddec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: co_lec7.pdf
 uid: b8525dde-cbaf-0ac6-523f-c9cc3f404904
 ---
 Summary of Lecture 7.
-
