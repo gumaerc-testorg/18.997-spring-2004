@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of Lecture 10.
 file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/6faef8afbcaec34e49dd0dab12611e0f_co_lec10.pdf
+file_size: 128979
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
