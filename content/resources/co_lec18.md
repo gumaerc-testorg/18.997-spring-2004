@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Lecture 18.
-file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/0c69f0075e6e284ff8926d0bc382b663_co_lec18.pdf
+file: /ol-ocw-studio-app/courses/18-997-topics-in-combinatorial-optimization-spring-2004/0c69f0075e6e284ff8926d0bc382b663_co_lec18.pdf
 file_size: 140727
 file_type: application/pdf
 learning_resource_types:
