@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Lecture 23.
-file: /ol-ocw-studio-app/courses/18-997-topics-in-combinatorial-optimization-spring-2004/b4133bdf4cad4f2b8cc82b6c30addf30_co_lec23.pdf
+file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/b4133bdf4cad4f2b8cc82b6c30addf30_co_lec23.pdf
 file_size: 216968
 file_type: application/pdf
 learning_resource_types:

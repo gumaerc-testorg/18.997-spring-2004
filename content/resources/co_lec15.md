@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Lecture 15.
-file: /ol-ocw-studio-app/courses/18-997-topics-in-combinatorial-optimization-spring-2004/833722f4aeb572e04d7b98805ad40ed8_co_lec15.pdf
+file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/833722f4aeb572e04d7b98805ad40ed8_co_lec15.pdf
 file_size: 101341
 file_type: application/pdf
 learning_resource_types:
