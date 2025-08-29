@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Lecture 21.
-file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/821bd98708278c182f251b593cc8db16_co_lec21.pdf
+file: /ol-ocw-studio-app/courses/18-997-topics-in-combinatorial-optimization-spring-2004/821bd98708278c182f251b593cc8db16_co_lec21.pdf
 file_size: 129991
 file_type: application/pdf
 learning_resource_types:
